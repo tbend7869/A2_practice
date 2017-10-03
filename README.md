@@ -1,2 +1,3 @@
 # A2_practice
 Practice makes perfect! Well, if you do perfect practice...
+Ok, so that's how you do edits inside of GitHub!!
